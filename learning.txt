@@ -1,1 +1,2 @@
+What I have learned from this course
 I've learned that using Git for version control allows for effective collaboration and rollback capabilities, making project history transparent and manageable.
