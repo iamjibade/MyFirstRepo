@@ -1,0 +1,4 @@
+Brief Introduction About Myself
+Hello! My name is Ajibade, and I am currently working through this course to deepen my skills in version control and software collaboration using Git and GitHub. I'm excited to apply these tools to my future projects.
+
+My primary goal is to master the standard developer workflow, particularly using branches, pull requests, and resolving merge conflicts, as these are crucial for successful team environments. This hands-on experience is proving invaluable in building that foundational knowledge.
