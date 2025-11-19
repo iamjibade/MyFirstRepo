@@ -3,4 +3,4 @@ Hello! My name is Ajibade, and I am currently working through this course to dee
 
 My primary goal is to master the standard developer workflow, particularly using branches, pull requests, and resolving merge conflicts, as these are crucial for successful team environments. This hands-on experience is proving invaluable in building that foundational knowledge.
 
-This is my first repository created as part of a GitHub learning task
+This is my first repository created as part of a GitHub learning task.
